@@ -1,11 +1,14 @@
 #include<stdio.h>
 #include<malloc.h>
-#define M 20
+#define M 50
+
 /*
 ** Program to implement Priority Queues
 ** Made by - Abhishek Chand [15CS-01]
 */
+
 int n=0;
+
 void insert(int Q[],int x)
 {
 	int j;
@@ -125,5 +128,6 @@ int main()
   		fflush(stdin);
   		scanf("%c",&ch);	
 	}while(ch=='Y'||ch=='y');
+	
 	return 0;
 }
