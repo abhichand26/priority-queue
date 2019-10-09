@@ -4,7 +4,7 @@
 
 /*
 ** Program to implement Priority Queues
-** Made by - Abhishek Chand [15CS-01]
+** Made by - Abhishek Chand
 */
 
 int n=0;
